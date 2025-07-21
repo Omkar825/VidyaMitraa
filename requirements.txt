@@ -1,0 +1,10 @@
+streamlit==1.32.0
+streamlit-chat==0.1.1
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+google-generativeai==0.3.2
+python-dotenv==1.0.1
+matplotlib==3.8.3
+altair==5.2.0
+pillow==10.2.0 
