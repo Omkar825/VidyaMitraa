@@ -61,5 +61,5 @@ recommendation_system.log
 *.pdf
 *.zip
 
-# Streamlit
-.streamlit/
+# Streamlit (keep config.toml for deployment)
+.streamlit/secrets.toml
