@@ -41,8 +41,8 @@ model = genai.GenerativeModel('gemini-2.0-flash')
 
 # Configure page
 st.set_page_config(
-    page_title="EduPathfinder",
-    page_icon="📚",
+    page_title="VidyaMitra",
+    page_icon="🎓",
     layout="wide"
 )
 
